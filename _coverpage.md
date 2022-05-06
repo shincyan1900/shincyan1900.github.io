@@ -7,5 +7,5 @@
 * To learn HTML、CSS、JS etc.
 * As Notes.
 
-[GitHub](https://github.com/shincyan1900/OneMusic)
-[Get Started](README.md)
+[Contact](https://github.com/shincyan1900/OneMusic)
+[Blog](https://shincyan1900.github.io/blog)
